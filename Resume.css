@@ -1,0 +1,30 @@
+body{
+	background-color:green;
+}
+
+h2 {
+
+    color:blue;
+    font-family: Arial;
+    font-size:22px;
+
+h3 {
+    
+     color: #ffcc00;
+     font-family: Times New Roman;
+     font-size: 29px;
+}
+
+h4 {
+
+    color: #ff66ff;
+    font-family: Courier New;
+    font-size: 33px;
+}
+
+h5 {
+
+    color: #ffcc99;
+    font-family: Lucida Console;
+    font-size: 39px;
+}
